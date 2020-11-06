@@ -1,0 +1,1 @@
+kiosksimple-webcam-javascript
